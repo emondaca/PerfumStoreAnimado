@@ -214,6 +214,8 @@ footer h3 {
     padding: 0px;
     margin: 0px;
     padding-bottom: 15px;
+    text-justify: center;
+    font-size: xx-large;
 }
 @media (min-width: 576px) {
     body {
@@ -357,8 +359,5 @@ footer h3 {
         height:140px;
         width: 220px;
         text-align: center;
-    }
-    footer h3 {
-        text-justify: center;
     }
 }
